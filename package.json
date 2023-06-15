@@ -1,0 +1,19 @@
+{
+  "name": "@reiwa_info_fin_corp/localtime",
+  "version": "1.0.3",
+  "description": "",
+  "main": "LocalTime.js",
+  "keywords": [
+    "time",
+    "localtime",
+    "timezones",
+    "date",
+    "datetime"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reiwa_info_fin_corp",
+  "license": "MIT",
+  "private":false
+}
