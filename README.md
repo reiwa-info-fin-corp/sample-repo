@@ -1,4 +1,6 @@
 # LocalTime
+test0616
+
 When using the Date construct in Node.js to generate a date object, it is not possible to set an arbitrary time zone.
 This means that the date and time will differ depending on the environment in which the date object is generated using the Date construct.
 Therefore, we will create a LocalTime module that displays the local time in an arbitrarily set time zone, no matter what environment it is executed in.
