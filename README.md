@@ -10,7 +10,6 @@ The mechanism is that UTC (Coordinated Universal Time) will be the same regardle
 そこで今回、どんな環境で実行しても任意で設定したタイムゾーンの現地時間を表示するLocalTimeモジュールを作る。
 タイムゾーンは、43種類の都市名から選択する。
 仕組みとして、どんな環境で実行してもUTC(協定世界時)は同じ値になるため、UTCの値から時差を計算することによって設定した都市名の現地時間を求めている。)
-test frome github
 
 ## Install it via npm
 ```shell
